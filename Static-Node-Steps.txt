@@ -1,0 +1,12 @@
+Create Folder (Static Website)
+
+Open Folder 
+
+npm init -y
+
+npm i express
+
+## Create Server.js and Index.html
+
+node server.js
+
