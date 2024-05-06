@@ -1,0 +1,10 @@
+Virtual Box -  5.1.26
+
+
+Download ubuntu Desktop 16.04.3 LTS
+
+(ubuntu.com/download/Desktop)
+
+Create VM (don't change any settings)
+
+after craating go to setting > Storage > Controller > chose Ubuntu file> Start Machine > Install Ubuntu
