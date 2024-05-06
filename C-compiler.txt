@@ -1,0 +1,26 @@
+check if download (gcc --version)
+
+if not(sudo apt install build-essential)
+
+Starts...
+
+cd Desktop
+
+touch hello.c
+
+gcc hello.c -o test
+
+./test(run the file)
+
+
+
+=================
+
+#include<stdio.h>
+
+int main(int argc, char **argv){
+printf("Hello World!!");
+
+return 0;
+
+}
